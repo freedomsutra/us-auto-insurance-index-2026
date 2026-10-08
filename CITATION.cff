@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Rostova"
+    given-names: "Elena"
+    name-particle: "FCAS"
+    affiliation: "AutoInsure.online"
+  - family-names: "Vance"
+    given-names: "Marcus"
+    name-particle: "CPCU"
+    affiliation: "AutoInsure.online"
+title: "2026 United States Auto Insurance Actuarial Benchmark Index"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://autoinsure.online"
+repository-code: "https://github.com/freedomsutra/us-auto-insurance-index-2026"
+license: CC-BY-4.0
