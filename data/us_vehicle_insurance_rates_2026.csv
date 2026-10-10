@@ -1,53 +1,197 @@
 make,model,slug,vehicle_type,risk_tier,avg_annual_premium_usd,avg_monthly_premium_usd,nhtsa_safety_rating,repair_cost_tier,theft_risk_tier,actuarial_source_url
-"Toyota","Camry",toyota-camry,Sedan,Low,1740.00,145.00,5,Low,Low,"https://autoinsure.online/vehicle/toyota-camry"
-"Honda","Civic",honda-civic,Sedan,Moderate,1880.00,156.67,5,Low,Moderate,"https://autoinsure.online/vehicle/honda-civic"
-"Ford","F-150",ford-f-150,Truck,Moderate,1920.00,160.00,5,Moderate,Moderate,"https://autoinsure.online/vehicle/ford-f-150"
-"Tesla","Model 3",tesla-model-3,Electric,High,2480.00,206.67,5,High,Low,"https://autoinsure.online/vehicle/tesla-model-3"
-"Chevrolet","Silverado 1500",chevrolet-silverado,Truck,Moderate,1960.00,163.33,4,Moderate,Moderate,"https://autoinsure.online/vehicle/chevrolet-silverado"
-"Toyota","RAV4",toyota-rav4,SUV,Low,1620.00,135.00,5,Low,Low,"https://autoinsure.online/vehicle/toyota-rav4"
-"Honda","CR-V",honda-cr-v,SUV,Low,1590.00,132.50,5,Low,Low,"https://autoinsure.online/vehicle/honda-cr-v"
-"Ram","1500",ram-1500,Truck,High,2050.00,170.83,4,Moderate,High,"https://autoinsure.online/vehicle/ram-1500"
-"Hyundai","Elantra",hyundai-elantra,Sedan,Moderate,1820.00,151.67,5,Low,Moderate,"https://autoinsure.online/vehicle/hyundai-elantra"
-"Subaru","Outback",subaru-outback,SUV,Low,1540.00,128.33,5,Low,Low,"https://autoinsure.online/vehicle/subaru-outback"
-"Tesla","Model Y",tesla-model-y,Electric,High,2540.00,211.67,5,High,Low,"https://autoinsure.online/vehicle/tesla-model-y"
-"Toyota","Corolla",toyota-corolla,Sedan,Low,1680.00,140.00,5,Low,Moderate,"https://autoinsure.online/vehicle/toyota-corolla"
-"Toyota","Tacoma",toyota-tacoma,Truck,Low,1720.00,143.33,5,Low,Moderate,"https://autoinsure.online/vehicle/toyota-tacoma"
-"Nissan","Rogue",nissan-rogue,SUV,Low,1690.00,140.83,5,Low,Low,"https://autoinsure.online/vehicle/nissan-rogue"
-"Honda","Accord",honda-accord,Sedan,Low,1780.00,148.33,5,Low,Moderate,"https://autoinsure.online/vehicle/honda-accord"
-"GMC","Sierra 1500",gmc-sierra-1500,Truck,Moderate,1980.00,165.00,4,Moderate,Moderate,"https://autoinsure.online/vehicle/gmc-sierra-1500"
-"Ford","Explorer",ford-explorer,SUV,Moderate,1760.00,146.67,5,Moderate,Moderate,"https://autoinsure.online/vehicle/ford-explorer"
-"Ford","Mustang Mach-E",ford-mustang-mach-e,Electric,Moderate,2180.00,181.67,5,Moderate,Low,"https://autoinsure.online/vehicle/ford-mustang-mach-e"
-"Hyundai","Ioniq 5",hyundai-ioniq-5,Electric,Moderate,1940.00,161.67,5,Moderate,Low,"https://autoinsure.online/vehicle/hyundai-ioniq-5"
-"Jeep","Grand Cherokee",jeep-grand-cherokee,SUV,Moderate,1880.00,156.67,5,Moderate,Moderate,"https://autoinsure.online/vehicle/jeep-grand-cherokee"
-"Subaru","Forester",subaru-forester,SUV,Low,1610.00,134.17,5,Low,Low,"https://autoinsure.online/vehicle/subaru-forester"
-"Toyota","Highlander",toyota-highlander,SUV,Low,1680.00,140.00,5,Low,Low,"https://autoinsure.online/vehicle/toyota-highlander"
-"Honda","Pilot",honda-pilot,SUV,Low,1710.00,142.50,5,Low,Low,"https://autoinsure.online/vehicle/honda-pilot"
-"Kia","Telluride",kia-telluride,SUV,Moderate,1750.00,145.83,5,Moderate,Moderate,"https://autoinsure.online/vehicle/kia-telluride"
-"Hyundai","Palisade",hyundai-palisade,SUV,Moderate,1740.00,145.00,5,Moderate,Moderate,"https://autoinsure.online/vehicle/hyundai-palisade"
-"Chevrolet","Traverse",chevrolet-traverse,SUV,Moderate,1790.00,149.17,5,Moderate,Moderate,"https://autoinsure.online/vehicle/chevrolet-traverse"
-"Chevrolet","Equinox",chevrolet-equinox,SUV,Low,1640.00,136.67,5,Low,Low,"https://autoinsure.online/vehicle/chevrolet-equinox"
-"Hyundai","Tucson",hyundai-tucson,SUV,Low,1670.00,139.17,5,Low,Moderate,"https://autoinsure.online/vehicle/hyundai-tucson"
-"Kia","Sportage",kia-sportage,SUV,Moderate,1720.00,143.33,5,Low,Moderate,"https://autoinsure.online/vehicle/kia-sportage"
-"Mazda","CX-5",mazda-cx-5,SUV,Low,1630.00,135.83,5,Low,Low,"https://autoinsure.online/vehicle/mazda-cx-5"
-"Subaru","Crosstrek",subaru-crosstrek,SUV,Low,1580.00,131.67,5,Low,Low,"https://autoinsure.online/vehicle/subaru-crosstrek"
-"Ford","Escape",ford-escape,SUV,Low,1660.00,138.33,5,Low,Low,"https://autoinsure.online/vehicle/ford-escape"
-"Volkswagen","Tiguan",volkswagen-tiguan,SUV,Moderate,1750.00,145.83,5,Moderate,Low,"https://autoinsure.online/vehicle/volkswagen-tiguan"
-"Jeep","Cherokee",jeep-cherokee,SUV,Moderate,1820.00,151.67,4,Moderate,Moderate,"https://autoinsure.online/vehicle/jeep-cherokee"
-"Hyundai","Santa Fe",hyundai-santa-fe,SUV,Low,1690.00,140.83,5,Low,Moderate,"https://autoinsure.online/vehicle/hyundai-santa-fe"
-"Nissan","Altima",nissan-altima,Sedan,Moderate,1860.00,155.00,5,Low,Moderate,"https://autoinsure.online/vehicle/nissan-altima"
-"Nissan","Sentra",nissan-sentra,Sedan,Moderate,1890.00,157.50,5,Low,Moderate,"https://autoinsure.online/vehicle/nissan-sentra"
-"Kia","Forte",kia-forte,Sedan,Moderate,1870.00,155.83,5,Low,Moderate,"https://autoinsure.online/vehicle/kia-forte"
-"Volkswagen","Jetta",volkswagen-jetta,Sedan,Moderate,1810.00,150.83,5,Moderate,Low,"https://autoinsure.online/vehicle/volkswagen-jetta"
-"Chevrolet","Colorado",chevrolet-colorado,Truck,Moderate,1840.00,153.33,4,Moderate,Moderate,"https://autoinsure.online/vehicle/chevrolet-colorado"
-"Ford","Ranger",ford-ranger,Truck,Moderate,1810.00,150.83,4,Moderate,Moderate,"https://autoinsure.online/vehicle/ford-ranger"
-"Honda","Odyssey",honda-odyssey,SUV,Low,1520.00,126.67,5,Low,Low,"https://autoinsure.online/vehicle/honda-odyssey"
-"Toyota","Sienna",toyota-sienna,SUV,Low,1530.00,127.50,5,Low,Low,"https://autoinsure.online/vehicle/toyota-sienna"
-"Chrysler","Pacifica",chrysler-pacifica,SUV,Low,1560.00,130.00,5,Moderate,Low,"https://autoinsure.online/vehicle/chrysler-pacifica"
-"Jeep","Wrangler",jeep-wrangler,SUV,Moderate,1840.00,153.33,4,Moderate,Moderate,"https://autoinsure.online/vehicle/jeep-wrangler"
-"Dodge","Charger",dodge-charger,Sedan,High,2420.00,201.67,5,Moderate,High,"https://autoinsure.online/vehicle/dodge-charger"
-"Ford","Mustang",ford-mustang,Sedan,High,2380.00,198.33,5,Moderate,Moderate,"https://autoinsure.online/vehicle/ford-mustang"
-"Chevrolet","Corvette",chevrolet-corvette,Sedan,High,2650.00,220.83,5,High,Low,"https://autoinsure.online/vehicle/chevrolet-corvette"
-"BMW","3 Series",bmw-3-series,Sedan,High,2390.00,199.17,5,High,Low,"https://autoinsure.online/vehicle/bmw-3-series"
-"Mercedes-Benz","C-Class",mercedes-benz-c-class,Sedan,High,2450.00,204.17,5,High,Low,"https://autoinsure.online/vehicle/mercedes-benz-c-class"
-"Lexus","RX 350",lexus-rx-350,SUV,Moderate,1820.00,151.67,5,Moderate,Low,"https://autoinsure.online/vehicle/lexus-rx-350"
-"Tesla","Model X",tesla-model-x,Electric,High,2980.00,248.33,5,High,Low,"https://autoinsure.online/vehicle/tesla-model-x"
+Acura,Integra,acura-integra,Sedan,Moderate,1880.00,156.67,5,Low,Moderate,https://autoinsure.online/vehicle/acura-integra
+Acura,MDX,acura-mdx,SUV,Moderate,1890.00,157.50,5,Moderate,Low,https://autoinsure.online/vehicle/acura-mdx
+Acura,RDX,acura-rdx,SUV,Moderate,1790.00,149.17,5,Moderate,Low,https://autoinsure.online/vehicle/acura-rdx
+Acura,TLX,acura-tlx,Sedan,Moderate,1990.00,165.83,5,Moderate,Low,https://autoinsure.online/vehicle/acura-tlx
+Audi,A4,audi-a4,Sedan,Moderate,2240.00,186.67,5,Moderate,Low,https://autoinsure.online/vehicle/audi-a4
+Audi,A6,audi-a6,Sedan,High,2580.00,215.00,5,High,Low,https://autoinsure.online/vehicle/audi-a6
+Audi,Q3,audi-q3,SUV,Moderate,1920.00,160.00,5,Moderate,Low,https://autoinsure.online/vehicle/audi-q3
+Audi,Q5,audi-q5,SUV,Moderate,2190.00,182.50,5,High,Low,https://autoinsure.online/vehicle/audi-q5
+Audi,Q7,audi-q7,SUV,High,2510.00,209.17,5,High,Moderate,https://autoinsure.online/vehicle/audi-q7
+Audi,Q8,audi-q8,SUV,High,2790.00,232.50,5,High,Moderate,https://autoinsure.online/vehicle/audi-q8
+BMW,"3 Series",bmw-3-series,Sedan,High,2420.00,201.67,5,High,Moderate,https://autoinsure.online/vehicle/bmw-3-series
+BMW,"5 Series",bmw-5-series,Sedan,High,2640.00,220.00,5,High,Moderate,https://autoinsure.online/vehicle/bmw-5-series
+BMW,i4,bmw-i4,Electric,High,2580.00,215.00,5,High,Low,https://autoinsure.online/vehicle/bmw-i4
+BMW,X3,bmw-x3,SUV,Moderate,2180.00,181.67,5,High,Moderate,https://autoinsure.online/vehicle/bmw-x3
+BMW,X5,bmw-x5,SUV,High,2480.00,206.67,5,High,Moderate,https://autoinsure.online/vehicle/bmw-x5
+BMW,X7,bmw-x7,SUV,High,2780.00,231.67,5,High,Moderate,https://autoinsure.online/vehicle/bmw-x7
+Buick,Enclave,buick-enclave,SUV,Low,1750.00,145.83,5,Low,Low,https://autoinsure.online/vehicle/buick-enclave
+Buick,"Encore GX",buick-encore-gx,SUV,Low,1590.00,132.50,5,Low,Low,https://autoinsure.online/vehicle/buick-encore-gx
+Buick,Envision,buick-envision,SUV,Low,1680.00,140.00,5,Low,Low,https://autoinsure.online/vehicle/buick-envision
+Cadillac,Escalade,cadillac-escalade,SUV,High,2580.00,215.00,5,High,High,https://autoinsure.online/vehicle/cadillac-escalade
+Cadillac,XT5,cadillac-xt5,SUV,Moderate,1920.00,160.00,5,Moderate,Low,https://autoinsure.online/vehicle/cadillac-xt5
+Cadillac,XT6,cadillac-xt6,SUV,Moderate,1990.00,165.83,5,Moderate,Low,https://autoinsure.online/vehicle/cadillac-xt6
+Chevrolet,Blazer,chevrolet-blazer,SUV,Moderate,1740.00,145.00,5,Moderate,Low,https://autoinsure.online/vehicle/chevrolet-blazer
+Chevrolet,"Bolt EV",chevrolet-bolt-ev,Electric,Low,1690.00,140.83,5,Low,Low,https://autoinsure.online/vehicle/chevrolet-bolt-ev
+Chevrolet,Camaro,chevrolet-camaro,Sedan,High,2720.00,226.67,4,Moderate,High,https://autoinsure.online/vehicle/chevrolet-camaro
+Chevrolet,Colorado,chevrolet-colorado,Truck,Moderate,1780.00,148.33,4,Moderate,"Low to Moderate",https://autoinsure.online/vehicle/chevrolet-colorado
+Chevrolet,Corvette,chevrolet-corvette,Sedan,Moderate,2200.00,183.33,5,High,Low,https://autoinsure.online/vehicle/chevrolet-corvette
+Chevrolet,Cruze,chevrolet-cruze,Sedan,Moderate,1790.00,149.17,5,Low,Moderate,https://autoinsure.online/vehicle/chevrolet-cruze
+Chevrolet,Equinox,chevrolet-equinox,SUV,Low,1560.00,130.00,5,"Low to Moderate",Low,https://autoinsure.online/vehicle/chevrolet-equinox
+Chevrolet,Impala,chevrolet-impala,Sedan,Moderate,1850.00,154.17,5,Low,Moderate,https://autoinsure.online/vehicle/chevrolet-impala
+Chevrolet,Malibu,chevrolet-malibu,Sedan,Moderate,1840.00,153.33,5,Low,Moderate,https://autoinsure.online/vehicle/chevrolet-malibu
+Chevrolet,"Silverado 1500",chevrolet-silverado,Truck,Moderate,1960.00,163.33,4,Moderate,Moderate,https://autoinsure.online/vehicle/chevrolet-silverado
+Chevrolet,"Silverado 2500HD",chevrolet-silverado-2500hd,Truck,Moderate,2090.00,174.17,5,Moderate,Moderate,https://autoinsure.online/vehicle/chevrolet-silverado-2500hd
+Chevrolet,Suburban,chevrolet-suburban,SUV,Moderate,2120.00,176.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/chevrolet-suburban
+Chevrolet,Tahoe,chevrolet-tahoe,SUV,Moderate,2050.00,170.83,5,Moderate,Moderate,https://autoinsure.online/vehicle/chevrolet-tahoe
+Chevrolet,Trailblazer,chevrolet-trailblazer,SUV,Low,1630.00,135.83,5,Low,Low,https://autoinsure.online/vehicle/chevrolet-trailblazer
+Chevrolet,Traverse,chevrolet-traverse,SUV,Low,1660.00,138.33,5,Average,Low,https://autoinsure.online/vehicle/chevrolet-traverse
+Chevrolet,Trax,chevrolet-trax,SUV,Low,1590.00,132.50,5,Low,Low,https://autoinsure.online/vehicle/chevrolet-trax
+Chrysler,300,chrysler-300,Sedan,High,2290.00,190.83,4,Moderate,High,https://autoinsure.online/vehicle/chrysler-300
+Chrysler,Pacifica,chrysler-pacifica,SUV,Low,1560.00,130.00,5,Low,Low,https://autoinsure.online/vehicle/chrysler-pacifica
+Dodge,Challenger,dodge-challenger,Sedan,High,2890.00,240.83,4,Moderate,High,https://autoinsure.online/vehicle/dodge-challenger
+Dodge,Charger,dodge-charger,Sedan,High,2950.00,245.83,4,Moderate,High,https://autoinsure.online/vehicle/dodge-charger
+Dodge,Durango,dodge-durango,SUV,High,2180.00,181.67,4,Moderate,High,https://autoinsure.online/vehicle/dodge-durango
+Dodge,Hornet,dodge-hornet,SUV,Moderate,1820.00,151.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/dodge-hornet
+Ford,Bronco,ford-bronco,SUV,Moderate,1820.00,151.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/ford-bronco
+Ford,"Bronco Sport",ford-bronco-sport,SUV,Low,1640.00,136.67,5,Low,Low,https://autoinsure.online/vehicle/ford-bronco-sport
+Ford,Edge,ford-edge,SUV,Moderate,1720.00,143.33,5,Moderate,Low,https://autoinsure.online/vehicle/ford-edge
+Ford,Escape,ford-escape,SUV,Low,1620.00,135.00,5,Average,Low,https://autoinsure.online/vehicle/ford-escape
+Ford,Expedition,ford-expedition,SUV,Moderate,1990.00,165.83,5,Moderate,Moderate,https://autoinsure.online/vehicle/ford-expedition
+Ford,Explorer,ford-explorer,SUV,Moderate,1760.00,146.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/ford-explorer
+Ford,F-150,ford-f-150,Truck,Moderate,1920.00,160.00,5,Moderate,Moderate,https://autoinsure.online/vehicle/ford-f-150
+Ford,"F-150 Lightning",ford-f-150-lightning,Electric,Moderate,2180.00,181.67,5,Moderate,Low,https://autoinsure.online/vehicle/ford-f-150-lightning
+Ford,"F-250 Super Duty",ford-f-250,Truck,Moderate,2080.00,173.33,5,Moderate,Moderate,https://autoinsure.online/vehicle/ford-f-250
+Ford,"F-350 Super Duty",ford-f-350,Truck,Moderate,2180.00,181.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/ford-f-350
+Ford,Focus,ford-focus,Sedan,Moderate,1760.00,146.67,5,Low,Moderate,https://autoinsure.online/vehicle/ford-focus
+Ford,Fusion,ford-fusion,Sedan,Moderate,1780.00,148.33,5,Low,Moderate,https://autoinsure.online/vehicle/ford-fusion
+Ford,Maverick,ford-maverick,Truck,Low,1620.00,135.00,5,Low,Low,https://autoinsure.online/vehicle/ford-maverick
+Ford,Mustang,ford-mustang,Sedan,High,2650.00,220.83,5,Moderate,High,https://autoinsure.online/vehicle/ford-mustang
+Ford,"Mustang Mach-E",ford-mustang-mach-e,Electric,Moderate,2180.00,181.67,5,Moderate,Low,https://autoinsure.online/vehicle/ford-mustang-mach-e
+Ford,Ranger,ford-ranger,Truck,Moderate,1750.00,145.83,4,Moderate,Low,https://autoinsure.online/vehicle/ford-ranger
+Ford,Taurus,ford-taurus,Sedan,Moderate,1810.00,150.83,5,Low,Low,https://autoinsure.online/vehicle/ford-taurus
+Genesis,GV70,genesis-gv70,SUV,Moderate,1980.00,165.00,5,Moderate,Low,https://autoinsure.online/vehicle/genesis-gv70
+Genesis,GV80,genesis-gv80,SUV,Moderate,2220.00,185.00,5,Moderate,Low,https://autoinsure.online/vehicle/genesis-gv80
+GMC,Acadia,gmc-acadia,SUV,Moderate,1780.00,148.33,5,Moderate,Low,https://autoinsure.online/vehicle/gmc-acadia
+GMC,Canyon,gmc-canyon,Truck,Moderate,1790.00,149.17,4,Moderate,Moderate,https://autoinsure.online/vehicle/gmc-canyon
+GMC,"Sierra 1500",gmc-sierra-1500,Truck,Moderate,1980.00,165.00,4,Moderate,Moderate,https://autoinsure.online/vehicle/gmc-sierra-1500
+GMC,"Sierra 2500HD",gmc-sierra-2500hd,Truck,Moderate,2120.00,176.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/gmc-sierra-2500hd
+GMC,Terrain,gmc-terrain,SUV,Low,1660.00,138.33,5,Low,Low,https://autoinsure.online/vehicle/gmc-terrain
+GMC,Yukon,gmc-yukon,SUV,Moderate,2080.00,173.33,5,Moderate,Moderate,https://autoinsure.online/vehicle/gmc-yukon
+GMC,"Yukon XL",gmc-yukon-xl,SUV,Moderate,2140.00,178.33,5,Moderate,Moderate,https://autoinsure.online/vehicle/gmc-yukon-xl
+Honda,Accord,honda-accord,Sedan,Low,1780.00,148.33,5,Low,Moderate,https://autoinsure.online/vehicle/honda-accord
+Honda,Civic,honda-civic,Sedan,Moderate,1880.00,156.67,5,Low,Moderate,https://autoinsure.online/vehicle/honda-civic
+Honda,CR-V,honda-cr-v,SUV,Low,1590.00,132.50,5,Low,Low,https://autoinsure.online/vehicle/honda-cr-v
+Honda,Fit,honda-fit,Sedan,Low,1520.00,126.67,5,Low,Low,https://autoinsure.online/vehicle/honda-fit
+Honda,HR-V,honda-hr-v,SUV,Low,1580.00,131.67,5,Low,Low,https://autoinsure.online/vehicle/honda-hr-v
+Honda,Odyssey,honda-odyssey,SUV,Low,1480.00,123.33,5,Low,Low,https://autoinsure.online/vehicle/honda-odyssey
+Honda,Passport,honda-passport,SUV,Low,1680.00,140.00,5,Low,Low,https://autoinsure.online/vehicle/honda-passport
+Honda,Pilot,honda-pilot,SUV,Low,1610.00,134.17,5,Average,Low,https://autoinsure.online/vehicle/honda-pilot
+Honda,Ridgeline,honda-ridgeline,Truck,Low,1690.00,140.83,5,Low,Low,https://autoinsure.online/vehicle/honda-ridgeline
+Hyundai,Accent,hyundai-accent,Sedan,Moderate,1750.00,145.83,4,Low,Moderate,https://autoinsure.online/vehicle/hyundai-accent
+Hyundai,Elantra,hyundai-elantra,Sedan,Moderate,1820.00,151.67,5,Low,Moderate,https://autoinsure.online/vehicle/hyundai-elantra
+Hyundai,"Ioniq 5",hyundai-ioniq-5,Electric,Moderate,1940.00,161.67,5,Moderate,Low,https://autoinsure.online/vehicle/hyundai-ioniq-5
+Hyundai,"Ioniq 6",hyundai-ioniq-6,Electric,Moderate,1880.00,156.67,5,Moderate,Low,https://autoinsure.online/vehicle/hyundai-ioniq-6
+Hyundai,Kona,hyundai-kona,SUV,Low,1610.00,134.17,5,Low,Low,https://autoinsure.online/vehicle/hyundai-kona
+Hyundai,Palisade,hyundai-palisade,SUV,Low,1640.00,136.67,5,Moderate,Low,https://autoinsure.online/vehicle/hyundai-palisade
+Hyundai,"Santa Fe",hyundai-santa-fe,SUV,Low,1620.00,135.00,5,Average,Low,https://autoinsure.online/vehicle/hyundai-santa-fe
+Hyundai,Sonata,hyundai-sonata,Sedan,Moderate,1820.00,151.67,5,Low,Moderate,https://autoinsure.online/vehicle/hyundai-sonata
+Hyundai,Tucson,hyundai-tucson,SUV,Low,1590.00,132.50,5,Average,"Low to Moderate",https://autoinsure.online/vehicle/hyundai-tucson
+Hyundai,Venue,hyundai-venue,SUV,Low,1580.00,131.67,5,Low,Low,https://autoinsure.online/vehicle/hyundai-venue
+Infiniti,QX50,infiniti-qx50,SUV,Moderate,1880.00,156.67,5,Moderate,Low,https://autoinsure.online/vehicle/infiniti-qx50
+Infiniti,QX60,infiniti-qx60,SUV,Moderate,1940.00,161.67,5,Moderate,Low,https://autoinsure.online/vehicle/infiniti-qx60
+Infiniti,QX80,infiniti-qx80,SUV,High,2420.00,201.67,4,High,Moderate,https://autoinsure.online/vehicle/infiniti-qx80
+Jeep,Cherokee,jeep-cherokee,SUV,Moderate,1740.00,145.00,4,Moderate,Low,https://autoinsure.online/vehicle/jeep-cherokee
+Jeep,Compass,jeep-compass,SUV,Moderate,1710.00,142.50,4,Low,Moderate,https://autoinsure.online/vehicle/jeep-compass
+Jeep,Gladiator,jeep-gladiator,Truck,Moderate,1850.00,154.17,4,Low,High,https://autoinsure.online/vehicle/jeep-gladiator
+Jeep,"Grand Cherokee",jeep-grand-cherokee,SUV,Moderate,1860.00,155.00,5,Moderate,High,https://autoinsure.online/vehicle/jeep-grand-cherokee
+Jeep,"Grand Wagoneer",jeep-grand-wagoneer,SUV,High,2650.00,220.83,5,High,Moderate,https://autoinsure.online/vehicle/jeep-grand-wagoneer
+Jeep,Renegade,jeep-renegade,SUV,Moderate,1690.00,140.83,4,Low,Moderate,https://autoinsure.online/vehicle/jeep-renegade
+Jeep,Wagoneer,jeep-wagoneer,SUV,Moderate,2240.00,186.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/jeep-wagoneer
+Jeep,Wrangler,jeep-wrangler,SUV,Moderate,1710.00,142.50,4,Low,High,https://autoinsure.online/vehicle/jeep-wrangler
+Kia,Carnival,kia-carnival,SUV,Low,1550.00,129.17,5,Low,Low,https://autoinsure.online/vehicle/kia-carnival
+Kia,EV6,kia-ev6,Electric,Moderate,1920.00,160.00,5,Moderate,Low,https://autoinsure.online/vehicle/kia-ev6
+Kia,EV9,kia-ev9,Electric,Moderate,2050.00,170.83,5,Moderate,Low,https://autoinsure.online/vehicle/kia-ev9
+Kia,Forte,kia-forte,Sedan,Moderate,1860.00,155.00,5,Low,Moderate,https://autoinsure.online/vehicle/kia-forte
+Kia,K5,kia-k5,Sedan,Moderate,1850.00,154.17,5,Low,Moderate,https://autoinsure.online/vehicle/kia-k5
+Kia,Niro,kia-niro,SUV,Low,1590.00,132.50,5,Low,Low,https://autoinsure.online/vehicle/kia-niro
+Kia,Rio,kia-rio,Sedan,Moderate,1740.00,145.00,4,Low,Moderate,https://autoinsure.online/vehicle/kia-rio
+Kia,Seltos,kia-seltos,SUV,Low,1620.00,135.00,5,Low,Low,https://autoinsure.online/vehicle/kia-seltos
+Kia,Soul,kia-soul,SUV,Moderate,1680.00,140.00,4,Low,Moderate,https://autoinsure.online/vehicle/kia-soul
+Kia,Sportage,kia-sportage,SUV,Low,1610.00,134.17,5,Average,Moderate,https://autoinsure.online/vehicle/kia-sportage
+Kia,Telluride,kia-telluride,SUV,Low,1630.00,135.83,5,Moderate,Low,https://autoinsure.online/vehicle/kia-telluride
+"Land Rover",Defender,land-rover-defender,SUV,High,2680.00,223.33,4,High,Moderate,https://autoinsure.online/vehicle/land-rover-defender
+"Land Rover","Range Rover Sport",land-rover-range-rover-sport,SUV,High,3120.00,260.00,4,High,High,https://autoinsure.online/vehicle/land-rover-range-rover-sport
+Lexus,"ES 350",lexus-es-350,Sedan,Low,1820.00,151.67,5,Moderate,Low,https://autoinsure.online/vehicle/lexus-es-350
+Lexus,"GX 550",lexus-gx,SUV,Moderate,2180.00,181.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/lexus-gx
+Lexus,"IS 300",lexus-is-300,Sedan,Moderate,2120.00,176.67,5,Moderate,Low,https://autoinsure.online/vehicle/lexus-is-300
+Lexus,"LX 600",lexus-lx,SUV,High,2620.00,218.33,5,High,Moderate,https://autoinsure.online/vehicle/lexus-lx
+Lexus,"NX 350",lexus-nx,SUV,Low,1790.00,149.17,5,Moderate,Low,https://autoinsure.online/vehicle/lexus-nx
+Lexus,"RX 350",lexus-rx-350,SUV,Low,1820.00,151.67,5,Moderate,Low,https://autoinsure.online/vehicle/lexus-rx-350
+Lexus,"TX 350",lexus-tx,SUV,Low,1880.00,156.67,5,Moderate,Low,https://autoinsure.online/vehicle/lexus-tx
+Lincoln,Aviator,lincoln-aviator,SUV,Moderate,2150.00,179.17,5,Moderate,Low,https://autoinsure.online/vehicle/lincoln-aviator
+Lincoln,Corsair,lincoln-corsair,SUV,Low,1780.00,148.33,5,Low,Low,https://autoinsure.online/vehicle/lincoln-corsair
+Lincoln,Navigator,lincoln-navigator,SUV,High,2490.00,207.50,5,High,Moderate,https://autoinsure.online/vehicle/lincoln-navigator
+Lucid,Air,lucid-air,Electric,High,3450.00,287.50,5,High,Low,https://autoinsure.online/vehicle/lucid-air
+Mazda,3,mazda-3,Sedan,Low,1680.00,140.00,5,Low,Low,https://autoinsure.online/vehicle/mazda-3
+Mazda,6,mazda-6,Sedan,Low,1740.00,145.00,5,Low,Low,https://autoinsure.online/vehicle/mazda-6
+Mazda,CX-30,mazda-cx-30,SUV,Low,1580.00,131.67,5,Low,Low,https://autoinsure.online/vehicle/mazda-cx-30
+Mazda,CX-5,mazda-cx-5,SUV,Low,1520.00,126.67,5,Average,Low,https://autoinsure.online/vehicle/mazda-cx-5
+Mazda,CX-50,mazda-cx-50,SUV,Low,1630.00,135.83,5,Low,Low,https://autoinsure.online/vehicle/mazda-cx-50
+Mazda,CX-90,mazda-cx-90,SUV,Low,1720.00,143.33,5,Low,Low,https://autoinsure.online/vehicle/mazda-cx-90
+Mazda,"MX-5 Miata",mazda-mx-5-miata,Sedan,Moderate,1690.00,140.83,4,Low,Low,https://autoinsure.online/vehicle/mazda-mx-5-miata
+Mercedes-Benz,C-Class,mercedes-benz-c-class,Sedan,High,2490.00,207.50,5,High,Moderate,https://autoinsure.online/vehicle/mercedes-benz-c-class
+Mercedes-Benz,E-Class,mercedes-benz-e-class,Sedan,High,2680.00,223.33,5,High,Low,https://autoinsure.online/vehicle/mercedes-benz-e-class
+Mercedes-Benz,GLC-Class,mercedes-benz-glc,SUV,Moderate,2250.00,187.50,5,High,Low,https://autoinsure.online/vehicle/mercedes-benz-glc
+Mercedes-Benz,GLE-Class,mercedes-benz-gle,SUV,High,2550.00,212.50,5,High,Moderate,https://autoinsure.online/vehicle/mercedes-benz-gle
+Mercedes-Benz,GLS-Class,mercedes-benz-gls,SUV,High,2850.00,237.50,5,High,Moderate,https://autoinsure.online/vehicle/mercedes-benz-gls
+Nissan,Altima,nissan-altima,Sedan,Moderate,1940.00,161.67,5,Moderate,"Moderate to High",https://autoinsure.online/vehicle/nissan-altima
+Nissan,Armada,nissan-armada,SUV,Moderate,2090.00,174.17,4,Moderate,Moderate,https://autoinsure.online/vehicle/nissan-armada
+Nissan,Frontier,nissan-frontier,Truck,Moderate,1760.00,146.67,4,Low,Moderate,https://autoinsure.online/vehicle/nissan-frontier
+Nissan,Kicks,nissan-kicks,SUV,Low,1620.00,135.00,5,Low,Low,https://autoinsure.online/vehicle/nissan-kicks
+Nissan,Maxima,nissan-maxima,Sedan,High,2180.00,181.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/nissan-maxima
+Nissan,Murano,nissan-murano,SUV,Low,1710.00,142.50,5,Low,Low,https://autoinsure.online/vehicle/nissan-murano
+Nissan,Pathfinder,nissan-pathfinder,SUV,Low,1740.00,145.00,5,Low,Low,https://autoinsure.online/vehicle/nissan-pathfinder
+Nissan,Rogue,nissan-rogue,SUV,Low,1690.00,140.83,5,Low,Low,https://autoinsure.online/vehicle/nissan-rogue
+Nissan,Sentra,nissan-sentra,Sedan,Moderate,1890.00,157.50,5,"Low to Moderate",Moderate,https://autoinsure.online/vehicle/nissan-sentra
+Nissan,Titan,nissan-titan,Truck,Moderate,1940.00,161.67,4,Moderate,Moderate,https://autoinsure.online/vehicle/nissan-titan
+Nissan,Versa,nissan-versa,Sedan,Moderate,1680.00,140.00,4,Low,Moderate,https://autoinsure.online/vehicle/nissan-versa
+Porsche,Cayenne,porsche-cayenne,SUV,High,2950.00,245.83,5,High,Moderate,https://autoinsure.online/vehicle/porsche-cayenne
+Porsche,Macan,porsche-macan,SUV,High,2640.00,220.00,5,High,Moderate,https://autoinsure.online/vehicle/porsche-macan
+Ram,1500,ram-1500,Truck,High,2050.00,170.83,4,Moderate,High,https://autoinsure.online/vehicle/ram-1500
+Ram,2500,ram-2500,Truck,High,2190.00,182.50,4,Moderate,High,https://autoinsure.online/vehicle/ram-2500
+Ram,3500,ram-3500,Truck,High,2290.00,190.83,4,Moderate,High,https://autoinsure.online/vehicle/ram-3500
+Rivian,R1S,rivian-r1s,Electric,High,2840.00,236.67,5,High,Low,https://autoinsure.online/vehicle/rivian-r1s
+Rivian,R1T,rivian-r1t,Electric,High,2780.00,231.67,5,High,Low,https://autoinsure.online/vehicle/rivian-r1t
+Subaru,Ascent,subaru-ascent,SUV,Low,1610.00,134.17,5,Low,Low,https://autoinsure.online/vehicle/subaru-ascent
+Subaru,BRZ,subaru-brz,Sedan,High,2180.00,181.67,5,Moderate,Moderate,https://autoinsure.online/vehicle/subaru-brz
+Subaru,Crosstrek,subaru-crosstrek,SUV,Low,1530.00,127.50,5,Average,"Very Low",https://autoinsure.online/vehicle/subaru-crosstrek
+Subaru,Forester,subaru-forester,SUV,Low,1510.00,125.83,5,Low,Low,https://autoinsure.online/vehicle/subaru-forester
+Subaru,Impreza,subaru-impreza,Sedan,Low,1580.00,131.67,5,Low,Low,https://autoinsure.online/vehicle/subaru-impreza
+Subaru,Legacy,subaru-legacy,Sedan,Low,1590.00,132.50,5,Low,Low,https://autoinsure.online/vehicle/subaru-legacy
+Subaru,Outback,subaru-outback,SUV,Low,1540.00,128.33,5,Low,Low,https://autoinsure.online/vehicle/subaru-outback
+Subaru,Solterra,subaru-solterra,Electric,Moderate,1890.00,157.50,5,Moderate,Low,https://autoinsure.online/vehicle/subaru-solterra
+Subaru,WRX,subaru-wrx,Sedan,High,2450.00,204.17,5,Moderate,Moderate,https://autoinsure.online/vehicle/subaru-wrx
+Tesla,Cybertruck,tesla-cybertruck,Electric,High,3350.00,279.17,5,High,Low,https://autoinsure.online/vehicle/tesla-cybertruck
+Tesla,"Model 3",tesla-model-3,Electric,High,2480.00,206.67,5,High,Low,https://autoinsure.online/vehicle/tesla-model-3
+Tesla,"Model S",tesla-model-s,Electric,High,3250.00,270.83,5,High,Low,https://autoinsure.online/vehicle/tesla-model-s
+Tesla,"Model X",tesla-model-x,Electric,High,3100.00,258.33,5,High,Low,https://autoinsure.online/vehicle/tesla-model-x
+Tesla,"Model Y",tesla-model-y,Electric,High,2540.00,211.67,5,High,Low,https://autoinsure.online/vehicle/tesla-model-y
+Toyota,4Runner,toyota-4runner,SUV,Moderate,1750.00,145.83,4,Low,Moderate,https://autoinsure.online/vehicle/toyota-4runner
+Toyota,Avalon,toyota-avalon,Sedan,Low,1710.00,142.50,5,Low,Low,https://autoinsure.online/vehicle/toyota-avalon
+Toyota,Camry,toyota-camry,Sedan,Low,1740.00,145.00,5,Low,Low,https://autoinsure.online/vehicle/toyota-camry
+Toyota,Corolla,toyota-corolla,Sedan,Low,1680.00,140.00,5,Low,Moderate,https://autoinsure.online/vehicle/toyota-corolla
+Toyota,"Corolla Cross",toyota-corolla-cross,SUV,Low,1590.00,132.50,5,Low,Low,https://autoinsure.online/vehicle/toyota-corolla-cross
+Toyota,Crown,toyota-crown,Sedan,Low,1780.00,148.33,5,Moderate,Low,https://autoinsure.online/vehicle/toyota-crown
+Toyota,"GR Supra",toyota-gr-supra,Sedan,High,2550.00,212.50,5,High,Moderate,https://autoinsure.online/vehicle/toyota-gr-supra
+Toyota,GR86,toyota-gr86,Sedan,High,2190.00,182.50,5,Moderate,Moderate,https://autoinsure.online/vehicle/toyota-gr86
+Toyota,"Grand Highlander",toyota-grand-highlander,SUV,Low,1680.00,140.00,5,Low,Low,https://autoinsure.online/vehicle/toyota-grand-highlander
+Toyota,Highlander,toyota-highlander,SUV,Low,1580.00,131.67,5,Average,Low,https://autoinsure.online/vehicle/toyota-highlander
+Toyota,Prius,toyota-prius,Sedan,Low,1610.00,134.17,5,Low,Moderate,https://autoinsure.online/vehicle/toyota-prius
+Toyota,RAV4,toyota-rav4,SUV,Low,1620.00,135.00,5,Low,Low,https://autoinsure.online/vehicle/toyota-rav4
+Toyota,Sequoia,toyota-sequoia,SUV,Moderate,1980.00,165.00,5,Moderate,Moderate,https://autoinsure.online/vehicle/toyota-sequoia
+Toyota,Sienna,toyota-sienna,SUV,Low,1490.00,124.17,5,Low,Low,https://autoinsure.online/vehicle/toyota-sienna
+Toyota,Tacoma,toyota-tacoma,Truck,Low,1720.00,143.33,5,Low,Moderate,https://autoinsure.online/vehicle/toyota-tacoma
+Toyota,Tundra,toyota-tundra,Truck,Moderate,1890.00,157.50,5,Moderate,Moderate,https://autoinsure.online/vehicle/toyota-tundra
+Toyota,Venza,toyota-venza,SUV,Low,1650.00,137.50,5,Low,Low,https://autoinsure.online/vehicle/toyota-venza
+Volkswagen,Arteon,volkswagen-arteon,Sedan,Moderate,2050.00,170.83,5,Moderate,Low,https://autoinsure.online/vehicle/volkswagen-arteon
+Volkswagen,Atlas,volkswagen-atlas,SUV,Low,1760.00,146.67,5,Moderate,Low,https://autoinsure.online/vehicle/volkswagen-atlas
+Volkswagen,Golf,volkswagen-golf,Sedan,Moderate,1790.00,149.17,5,Moderate,Low,https://autoinsure.online/vehicle/volkswagen-golf
+Volkswagen,ID.4,volkswagen-id4,Electric,Moderate,1910.00,159.17,5,Moderate,Low,https://autoinsure.online/vehicle/volkswagen-id4
+Volkswagen,Jetta,volkswagen-jetta,Sedan,Moderate,1880.00,156.67,5,"Moderate to High",Low,https://autoinsure.online/vehicle/volkswagen-jetta
+Volkswagen,Passat,volkswagen-passat,Sedan,Moderate,1810.00,150.83,5,Low,Low,https://autoinsure.online/vehicle/volkswagen-passat
+Volkswagen,Taos,volkswagen-taos,SUV,Low,1640.00,136.67,5,Low,Low,https://autoinsure.online/vehicle/volkswagen-taos
+Volkswagen,Tiguan,volkswagen-tiguan,SUV,Low,1670.00,139.17,5,Moderate,Low,https://autoinsure.online/vehicle/volkswagen-tiguan
+Volvo,XC40,volvo-xc40,SUV,Low,1720.00,143.33,5,Moderate,Low,https://autoinsure.online/vehicle/volvo-xc40
+Volvo,XC60,volvo-xc60,SUV,Low,1810.00,150.83,5,Moderate,Low,https://autoinsure.online/vehicle/volvo-xc60
+Volvo,XC90,volvo-xc90,SUV,Low,1920.00,160.00,5,Moderate,Low,https://autoinsure.online/vehicle/volvo-xc90
